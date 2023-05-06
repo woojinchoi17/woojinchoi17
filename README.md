@@ -10,7 +10,6 @@
 - 📒  **cana's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api?username=woojinchoi17&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinchoi17&show_icons=true&theme=cobalt)  
 
 <!--
 **woojinchoi17/woojinchoi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
