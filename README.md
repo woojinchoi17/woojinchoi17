@@ -1,10 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)/
-<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
+![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)
 
  - 💻   **I'm a iOS Develover**    
-
- - 🇰🇷  **I'm working in South Korea**
 
 ### How to reach me? 🤔
 
