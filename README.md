@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=A8DAF9&section=header&text=woojin's%20github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0099CC&section=header&text=woojin's%20github&fontColor=ffffff)
 
 <!--
 **woojinchoi17/woojinchoi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
