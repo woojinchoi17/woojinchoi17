@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)
 
-- 👋   Hi, I'm woojin
+👋   Hi, I'm woojin
 - 💻   I'm intereseted in iOS programming
 - 📚   I'm currently learning Swift & SwiftUI
 
