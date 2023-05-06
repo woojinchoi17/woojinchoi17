@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)
 
-- 👋   **Hi, I'm woojin
-- 💻   **I'm intereseted in iOS programming
-- 📚   **I'm currently studying Swift
+- 👋   Hi, I'm woojin
+- 💻   I'm intereseted in iOS programming
+- 📚   I'm currently studying Swift
 
 - 📮  **Woojin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
 
