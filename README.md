@@ -1,13 +1,13 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)
 
-- 👋   Hi, I'm woojin
+- 👋   Hi, I'm Cana
 - 💻   I'm intereseted in iOS programming
 - 📚   I'm currently learning Swift & SwiftUI
 
-- 📮  **Woojin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
+- 📮  **cana's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
 
-- 📒  **Woojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
+- 📒  **cana's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinchoi17&show_icons=true&theme=cobalt)  
 
