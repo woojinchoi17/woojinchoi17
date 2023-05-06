@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=woojin's%20github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=4D75DB&section=header&text=Cana's%20github&fontColor=ffffff)
 
 - 👋   Hi, I'm Cana
 - 💻   I'm intereseted in iOS programming
