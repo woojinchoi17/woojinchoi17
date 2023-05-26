@@ -5,9 +5,9 @@
 - 💻   I'm intereseted in iOS programming
 - 📚   I'm currently learning Swift & SwiftUI
 
-- 📮  **cana's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
+- 📮  **Cana's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
 
-- 📒  **cana's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
+- 📒  **Cana's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api?username=woojinchoi17&count_private=true)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monetary)](https://solved.ac/monetary/) -->
