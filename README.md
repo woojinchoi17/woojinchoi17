@@ -1,5 +1,5 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=4D75DB&section=header&text=Louie's%20github&fontColor=ffffff)
+<!--### Hi there 👋-->
+<!--![header](https://capsule-render.vercel.app/api?type=rounded&color=4D75DB&section=header&text=Louie's%20github&fontColor=ffffff)-->
 
 - 👋   Hi, I'm Louie
 - 💻   I'm intereseted in iOS programming
